@@ -1,0 +1,55 @@
+evaluation of of internal data.
+supplementary info regarding the value our our core and specialty data.
+value: medium
+complexity: high
+data axle: 1
+description
+create report that monitors the type type features being used across models(target,, l2, etc….) to help ascertain the value of internal data.
+supplementary info regarding the value core our core and specialty data.
+value: medium
+complexity: low
+data axle: 23
+design working on on head to head test to see see lift from moving mgen mgen from sas to databricks.
+design hours = 40(blake)
+qa hours = 10(lindsey)
+uat hours = 13(brian)
+value: low
+complexity: medium
+data axle: 27
+design hours =40(blake)
+qa hours = 60(lindsey)
+uat hours = 20(brian)
+value: high
+complexity: high
+data axle: 27
+design hours =40(blake)
+qa hours = 10(lindsey)
+uat hours = 13(brian)
+value: medium
+complexity: high
+data axle: 23
+currently working on otc head to head to see from from moving moving models from sas to databricks.
+design hours = 10(blake)
+qa hours = 10(lindsey)
+uat hours = 13(brian)
+value: high
+complexity: medium
+data axle: 4
+qa to ensure function works properly.
+requires evaluation of historic(often standard) code used continuously today.
+may require data engineering support…
+design hours = 40(blake)
+qa hours = 15(lindsey)
+uat hours = 20(brian)
+value: value:
+complexity: medium
+currently axle: 1
+description
+create report monitors monitors the type of features being used across models models(target ready,,,, etc….) to help ascertain the value of internal data.
+supplementary info regarding the value value our core and specialty specialty data.
+value: medium
+complexity: low
+data axle: 27
+design hours = 60(blake)
+qa hours = 10(lindsey)
+uat hours

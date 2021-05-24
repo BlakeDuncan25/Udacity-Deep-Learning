@@ -1,76 +1,55 @@
 Summary
-
 Scale, train, and test samples independently rather than entire sample at once. 
-
 Need to monitor on run times
-
 Acceptance Criteria
-
 QA and UAT open issues resolved
-
 Design Hours = 60 (Lindsey)
 QA Hours = 15 (Blake)
 UAT Hours = 20 (Brian)
-
 Value: High
 Complexity: High
 Data Axle: 1
-
 Description
 Create report that monitors the type of features being used across models (Target Ready, L2, FEC, etc….) to help ascertain the value of internal data. 
-
 Supplementary info regarding the value of our core and specialty data.
-
 Value: Medium
 Complexity: Low
 Data Axle: 23
-
 Currently working on OTC head to head test to see lift from moving MGen models from SAS to Databricks.
-
 Design Hours = 40 (Blake)
 QA Hours = 10 (Lindsey)
 UAT Hours = 13 (Brian)
-
 Value: Medium
 Complexity: Medium
 Data Axle: 4
-
-QA to ensure function works properly. Requires evaluation of historic (often, standard) code used continuously today.
+QA to ensure function works properly.
+Requires evaluation of historic (often, standard) code used continuously today.
 May require Data Engineering support…
-
 Design Hours = 40 (Blake) 
 QA Hours = 10 (Lindsey)
 UAT Hours = 13 (Brian)
-
 Value: High
 Complexity: Medium
 Data Axle: 27
-
 Design Hours =40 (Blake) 
 QA Hours = 10 (Lindsey)
 UAT Hours= 13 (Carolyn)
-
 Value: Low
 Complexity: Medium
 Data Axle: 22
-
-Progress has been made now that Jayesh’s team has created a data sync for Apogee transaction files to be auto moved to S3, but their processing is still batch. This can begin once Tito’s tame updates files more frequently.
-
+Progress has been made now that Jayesh’s team has created a data sync for Apogee transaction files to be auto moved to S3, but their processing is still batch.
+This can begin once Tito’s team updates files more frequently.
 Design Hours = 60 (Blake) 
 QA Hours = 15 (Lindsey)
 UAT Hours= 20 (Brian)
-
 Value: Medium
 Complexity: High
 Data Axle: 16
-
 Repo: Lochness
 Issue #76
-
 Design Hours = 40 (Blake) 
 QA Hours = 10 (Amy)
 UAT Hours= 13 (Brian)
-
 Value: Low
 Complexity: Medium
 Data Axle: 15
